@@ -41,6 +41,10 @@ th {
     background: #afd;
 }
 
+hr {
+    margin: .8em 20em .8em 20em;
+}
+
 canvas {
     margin: .5em 2em .5em 2em;
     border: .1em dashed black;
